@@ -41,12 +41,12 @@
 
 ## 📊 GitHub Stats
 
-![Jayakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logesh0224&show_icons=true&theme=radical)
+![Jayakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish28112003&show_icons=true&theme=radical)
 
-![Jayakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=logesh0224&layout=compact&theme=radical)
+![Jayakrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=krish28112003&layout=compact&theme=radical)
 
-[![GitHub followers](https://img.shields.io/github/followers/logesh0224?label=Follow&style=social)](https://github.com/logesh0224)
+[![GitHub followers](https://img.shields.io/github/followers/krish28112003?label=Follow&style=social)](https://github.com/krish28112003)
 
-[![GitHub](https://img.shields.io/github/followers/logesh0224?label=repositories&style=social)](https://github.com/logesh0224)
+[![GitHub](https://img.shields.io/github/followers/krish28112003?label=repositories&style=social)](https://github.com/krish28112003)
 
 
