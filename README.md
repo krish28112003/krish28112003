@@ -11,6 +11,8 @@
 #### 5📫  🌟 Seeking opportunities to grow and contribute, with a hunger for experience and a thirst for knowledge.
 
 
+
+
 ## Skills
 
 ![C Programming]()
@@ -24,11 +26,12 @@
 ![VsCode](https://img.icons8.com/?size=64&id=TP9RR7DE1AuH&format=png)
 
 
+
 ## Projects
 
-### Fitness Management System
-### Weather Forcasting System
-### Text Detection and Extraction using OpenCV and OCR
+#### Fitness Management System
+#### Weather Forcasting System
+#### Text Detection and Extraction using OpenCV and OCR
 
 
 
