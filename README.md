@@ -13,8 +13,6 @@
 
 ## Skills
 
-![C Programming](![Banner](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
 
 # Hello, I'm [Jayakrishnan T] 👋
 
@@ -28,7 +26,7 @@
 
 ## Skills
 
-![C Programming](https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png)
+![C Programming]()
 ![Java](https://img.icons8.com/?size=48&id=13679&format=png)
 ![Python](https://icons8.com/icon/0tuwKqWwti2E/c)
 ![HTML](https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png)
