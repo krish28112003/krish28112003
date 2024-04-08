@@ -13,19 +13,6 @@
 
 ## Skills
 
-
-# Hello, I'm [Jayakrishnan T] 👋
-
-#### 1 🎓 Recent graduate in Electrical Engineering, excited to dive into the world of software development.
-
-#### 2 💻 Enthusiastic newcomer to the tech industry, eager to apply my academic knowledge to real-world projects.
-#### 3 🚀 Passionate about coding and problem-solving, ready to embark on my journey as a developer.
-#### 4 🌱 Constantly learning and honing my skills, determined to make a positive impact in the tech community.
-#### 5📫  🌟 Seeking opportunities to grow and contribute, with a hunger for experience and a thirst for knowledge.
-
-
-## Skills
-
 ![C Programming]()
 ![Java](https://img.icons8.com/?size=48&id=13679&format=png)
 ![Python](https://icons8.com/icon/0tuwKqWwti2E/c)
