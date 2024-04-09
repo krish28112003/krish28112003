@@ -15,7 +15,7 @@
 
 ## Skills
 
-![C Programming]()
+![C Programming](https://img.icons8.com/?size=256&id=0tuwKqWwti2E&format=png)
 ![Java](https://img.icons8.com/?size=48&id=13679&format=png)
 ![Python](https://icons8.com/icon/0tuwKqWwti2E/c)
 ![HTML](https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png)
