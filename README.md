@@ -11,6 +11,7 @@
 ## Skills
 
 ![C](https://img.icons8.com/?size=48&id=40670&format=png)
+![C++](https://img.icons8.com/?size=48&id=40669&format=png)
 ![Java](https://img.icons8.com/?size=48&id=13679&format=png)
 ![Python](https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png)
 ![HTML](https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png)
