@@ -14,7 +14,6 @@
 ![Java](https://img.icons8.com/?size=48&id=13679&format=png)
 ![Python](https://img.icons8.com/?size=48&id=l75OEUJkPAk4&format=png)
 ![HTML](https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png)
-![CSS](https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png)
 ![JavaScript](https://img.icons8.com/?size=48&id=PXTY4q2Sq2lG&format=png)
 ![MySQL](https://img.icons8.com/?size=48&id=UFXRpPFebwa2&format=png)
 ![DevTools](https://img.icons8.com/?size=64&id=z776U00C7sTg&format=png)
